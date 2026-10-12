@@ -62,7 +62,8 @@ O Webhook aguarda uma requisição `POST` com um JSON no seguinte formato (Body)
 }
 
 ```
-🚀 Como importar este workflow no seu n8n
+🚀 Como importar este workflow no seu n8n:
+
 Copie o conteúdo completo do arquivo JSON deste workflow.
 
 Abra a interface do seu n8n.

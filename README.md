@@ -60,3 +60,16 @@ O Webhook aguarda uma requisição `POST` com um JSON no seguinte formato (Body)
     }
   ]
 }
+
+🚀 Como importar este workflow no seu n8n
+Copie o conteúdo completo do arquivo JSON deste workflow.
+
+Abra a interface do seu n8n.
+
+Vá para a aba Workflows e crie um novo (Add Workflow).
+
+Pressione Ctrl + V (ou Cmd + V no Mac) diretamente na tela em branco.
+
+Configure suas credenciais nos nós que exigem autenticação (Gmail e Gemini).
+
+Salve e ative o workflow!
